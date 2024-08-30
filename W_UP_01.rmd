@@ -50,7 +50,7 @@ so I use the helper file, num ~ categorical
 boxplot(pushups~position,data=mydata)
 ```
 
-This box plot shows that on average players in the skillpositions do more pushups in two minutes than do the line players 
+This box plot shows that on average players in the skill positions do more pushups in two minutes than do the line players 
 
 ### Numerical Descriptive Results
 
